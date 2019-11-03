@@ -24,3 +24,11 @@ This system was inspired from Robert Green's System
 A personal wiki / website with time tracking https://wiki.xxiivv.com/#about
 
 https://twitter.com/neauoire/status/1072630296934318080
+
+## Niklas Luhmann
+
+Notes and ideas recorded on A6 cards (~10x15cm) ordered by catergories in a series of drawers. 
+
+[Link](https://www.uni-bielefeld.de/soz/luhmann-archiv/pdf/jschmidt_niklas-luhmanns-card-index_-sociologica_2018_12-1.pdf)
+
+Quite popular under the term [Zettelkasten or Slipbox system](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1). 
