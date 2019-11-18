@@ -32,3 +32,15 @@ Notes and ideas recorded on A6 cards (~10x15cm) ordered by catergories in a seri
 [Link](https://www.uni-bielefeld.de/soz/luhmann-archiv/pdf/jschmidt_niklas-luhmanns-card-index_-sociologica_2018_12-1.pdf)
 
 Quite popular under the term [Zettelkasten or Slipbox system](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1). 
+
+## Alice Kober
+
+Linguist.
+
+> Instead, she set out to record the frequency of every symbol in the tablets, both in general and then in a variety of positions within words: initial, final position, medial, second, and next to last. She also recorded the frequency of every character in juxtaposition to that of every other character.
+
+> It was a mammoth task, performed without the aid of computers. In addition, during the years surrounding the Second World War, writing materials were hard to come by. Kober recorded her detailed analysis on index cards she made from the backs of old greetings cards, and the insides of covers of examination books.
+
+> "She stole a lot of checkout slips from the Brooklyn College library," adds Margalit Fox. "And all of these she painstakingly cut with scissors, one at a time, until she had something like a 180 thousand cards that she had hand cut."
+
+_Definitely a task better suited to a computer program!_
