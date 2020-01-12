@@ -44,3 +44,9 @@ Linguist.
 > "She stole a lot of checkout slips from the Brooklyn College library," adds Margalit Fox. "And all of these she painstakingly cut with scissors, one at a time, until she had something like a 180 thousand cards that she had hand cut."
 
 _Definitely a task better suited to a computer program!_
+
+## Francis Coppola
+
+https://www.youtube.com/watch?v=awce_j2myQw
+
+This one project but it's still quite interesting as example of organising information
