@@ -50,3 +50,9 @@ _Definitely a task better suited to a computer program!_
 https://www.youtube.com/watch?v=awce_j2myQw
 
 This one project but it's still quite interesting as example of organising information
+
+## Roam
+
+https://www.nateliason.com/blog/roam
+
+This reminds me a little of https://en.wikipedia.org/wiki/Project_Xanadu
