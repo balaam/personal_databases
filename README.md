@@ -56,3 +56,7 @@ This one project but it's still quite interesting as example of organising infor
 https://www.nateliason.com/blog/roam
 
 This reminds me a little of https://en.wikipedia.org/wiki/Project_Xanadu
+
+## Federated Wiki
+
+https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/
