@@ -60,3 +60,5 @@ This reminds me a little of https://en.wikipedia.org/wiki/Project_Xanadu
 ## Federated Wiki
 
 https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/
+
+> The majority of links in the memex are made by readers, not writers. On the world wide web of course, only an author gets to determine links.
