@@ -66,3 +66,13 @@ https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/
 ## Trilium
 
 https://github.com/zadam/trilium
+
+## Bytebase
+
+Separate out the Dump and Refine phases.
+This suits notes and a personal database might also share aspects of that. A personal database would have two parts:
+ - a have "reference" i.e. things not written by you
+ - your notes. 
+ 
+ In the reference section you could dump in websites, quotes, tweets, maybe even epubs. The personally authored part would be distinct from this but draw on the reference section.
+https://medium.com/@bytebase/an-iterative-approach-to-notes-f1c2a28c4d29
