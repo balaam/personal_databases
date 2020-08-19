@@ -57,6 +57,13 @@ https://www.nateliason.com/blog/roam
 
 This reminds me a little of https://en.wikipedia.org/wiki/Project_Xanadu
 
+## Obsidian 
+
+Also seems Xanadu-ish.
+https://obsidian.md/
+
+https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base
+
 ## Federated Wiki
 
 https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/
