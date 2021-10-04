@@ -83,7 +83,3 @@ This suits notes and a personal database might also share aspects of that. A per
  
  In the reference section you could dump in websites, quotes, tweets, maybe even epubs. The personally authored part would be distinct from this but draw on the reference section.
 https://medium.com/@bytebase/an-iterative-approach-to-notes-f1c2a28c4d29
-
-## Obsidian.md
-
-https://obsidian.md/
