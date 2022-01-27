@@ -64,6 +64,8 @@ https://obsidian.md/
 
 https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base
 
+(I'm currently using this, after boost note jumped the shark)
+
 ## Federated Wiki
 
 https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/
@@ -83,3 +85,7 @@ This suits notes and a personal database might also share aspects of that. A per
  
  In the reference section you could dump in websites, quotes, tweets, maybe even epubs. The personally authored part would be distinct from this but draw on the reference section.
 https://medium.com/@bytebase/an-iterative-approach-to-notes-f1c2a28c4d29
+
+## Electric Tables 
+
+https://tomcritchlow.com/2022/01/26/electric-tables/
